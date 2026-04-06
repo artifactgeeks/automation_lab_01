@@ -8,7 +8,7 @@ public class Lab123_While_Guessing_Game {
         // Guess a number between 1 and 100
         // Random =>  1 to 100
         Random random = new Random();
-        int numberToGuess = random.nextInt(100)+1; // 0 to 100
+        int numberToGuess = random.nextInt(10)+1; // 0 to 100
 //        System.out.println(numberToGuess);
 
 
